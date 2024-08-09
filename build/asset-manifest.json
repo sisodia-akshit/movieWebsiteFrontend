@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.01a0dfa5.css",
+    "main.js": "/static/js/main.31bf665a.js",
+    "static/js/453.1c5738fe.chunk.js": "/static/js/453.1c5738fe.chunk.js",
+    "static/media/MoviePopcorn.png": "/static/media/MoviePopcorn.0ead81e83f505b131aa7.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "static/media/play.svg": "/static/media/play.402440c62d2ef5cf7fcbc40433295518.svg",
+    "main.01a0dfa5.css.map": "/static/css/main.01a0dfa5.css.map",
+    "main.31bf665a.js.map": "/static/js/main.31bf665a.js.map",
+    "453.1c5738fe.chunk.js.map": "/static/js/453.1c5738fe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01a0dfa5.css",
+    "static/js/main.31bf665a.js"
+  ]
+}
